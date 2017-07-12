@@ -1,0 +1,3 @@
+git pull
+systemctl restart simplegowebsocketschat
+systemctl status simplegowebsocketschat
